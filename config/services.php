@@ -32,11 +32,11 @@ return [
     'google' => [
         'client_id' => '874927845773-p7bka8ljemilu2q7q68in8gncm06t6kf.apps.googleusercontent.com',
         'client_secret' => 'TRT84XyLXY0d6uurYhvzDUSm',
-        'redirect' => 'http://localhost/answer/auth/google/callback',
+        'redirect' => 'https://answerout.com/auth/google/callback',
     ],
     'facebook' => [
         'client_id' => '915550249016502',
         'client_secret' => 'ea27bc82b23b1685e380a3199a174cf3',
-        'redirect' => 'http://localhost/answer/auth/facebook/callback',
+        'redirect' => 'https://answerout.com/auth/facebook/callback',
     ],
 ];
